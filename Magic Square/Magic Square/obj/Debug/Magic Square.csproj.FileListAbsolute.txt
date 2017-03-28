@@ -1,0 +1,9 @@
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\bin\Debug\Magic Square.exe.config
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\bin\Debug\Magic Square.exe
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\bin\Debug\Magic Square.pdb
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic Square.csprojResolveAssemblyReference.cache
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic_Square.Form1.resources
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic_Square.Properties.Resources.resources
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.GenerateResource.Cache
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic Square.exe
+C:\Users\noAndreas\Desktop\Magic Square\Magic Square\obj\Debug\Magic Square.pdb
